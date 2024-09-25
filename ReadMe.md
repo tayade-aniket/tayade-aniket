@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m @tayade-aniket<br>👀 I’m interested in MERN Stack Web Development.<br>🌱 I’m currently learning React Native, TypeScript, etc.<br>💞️ I’m looking to collaborate on MERN Stack Web Applications.<br>📫 How to reach me : tayadeanni@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love to be Prince Dastan in Prince of Persia:Forgotten Sand Game
+ Hi, I’m @tayade-aniket<br>👀 I’m interested in Front-End Web Development.<br>🌱 I’m currently learning React Native, TypeScript, etc.<br>💞️ I’m looking to collaborate on MERN Stack Web Applications.<br>📫 How to reach me : tayadeanni@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love to be Prince Dastan in Prince of Persia:Forgotten Sand Game
 
 
 ## 🌐 Socials:
