@@ -97,7 +97,7 @@ I'm a **Data Scientist evolving into a Machine Learning Engineer**. I've spent o
 | Degree | Institution | Score |
 |:--|:--|:--:|
 | 🎓 **M.Sc. Computer Science** _(Pursuing)_ | MIT Arts, Commerce & Science College (MIT ACSC), Pune | ![CGPA](https://img.shields.io/badge/CGPA-9.07-F97316?style=flat-square) |
-| 🎓 **B.Voc. Software Development** | — | ![CGPA](https://img.shields.io/badge/CGPA-7.60-8B5CF6?style=flat-square) |
+| 🎓 **B.Voc. Software Development** | Sant Gadge Baba Amravati University | ![CGPA](https://img.shields.io/badge/CGPA-7.60-8B5CF6?style=flat-square) |
 
 ---
 
